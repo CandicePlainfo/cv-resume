@@ -134,12 +134,14 @@ Technologies et langages : Python, Jupyter notebook, ACP, Clustering
 
 [![export](img/xport1.png)](https://github.com/CandicePlainfo/etude_marche_export)
 
+
 ### Reporting de gestion d'un portefeuille Projets
 Dataviz avec Power BI pour un reporting sur le suivi de projets
 
 Technologies et langages : Power Query Editor, Power BI
 
 [![pbi](img/pbi.png)](https://github.com/CandicePlainfo/reporting_gestion_de_projets)
+
 
 ### Création d'un modèle de prédiction de l'authenticité des billets 
 Elaboration d'un modèle d'apprentissage pour réaliser une prédiction sur l'authenticité des billets
@@ -148,6 +150,7 @@ Technologies et langages : Python, Jupyter notebook, modèles d'apprentissage su
 
 [![billets](img/billets2.png)](https://github.com/CandicePlainfo/modele_authenticite_billets)
 
+
 ### Création et gestion d'une base de données SQL
 Création de bases de données, vérification de leur intégrité et techniques de requêtage SQL sur des données immobilières
 
@@ -155,12 +158,14 @@ Technologies et langages : SQL, MySQL, SQL Power Architects
 
 [![sql](img/immo_sql.png)]([https://github.com/CandicePlainfo/creation-gestion_BDD_SQL)
 
+
 ### Optimiser la gestion d'une boutique en ligne
 Prétraitement de données, analyses univariées et multivariées des données d'une boutique de spiritueux en ligne.
 
 Technologies et langages : Python, Jupyter notebook
 
 [![boutique](img/bottleneck.png)](https://github.com/CandicePlainfo/optimiser_gestion_boutiqueenligne)
+
 
 ### Elaboration des indicateurs EgaPro 
 Élaboration d'un workflow Knime pour l'automatisation du calcul des indicateurs annuels d'égalité professionnelle
@@ -170,9 +175,10 @@ Technologies et langages : Knime
 [![egapro](img/egapro.png)](https://github.com/CandicePlainfo/mise_en_place_indicateurs_Egapro)
 
 
+
 ## Formations continues
 
-- AUditeur interne (norme iso 9001)
+- Auditeur interne (norme iso 9001), EFS
 - Gestion de projet (cascade et agile), LCA
 - Prise de parole publique, Verbatim 
 - Outils et méthodes en promotion et éducation à la santé , EHESP
@@ -180,13 +186,13 @@ Technologies et langages : Knime
 
 ## Autres activités
 
-⚡️ Fun fact 1...
+⚡️ **Fun fact 1...**
 Je suis également professionnelle en Shiatsu, une technique manuelle de massage d'origine japonaise à base de pressions ciblées et rythmées sur le corps qui apporte bien-être et vise à l'accompagnement du maintien de la santé. 
 
 [![ShiatsuStudio](img/shiatsustudio_logo.png)](https://www.linkedin.com/company/shiatsu-studio-france/)
 
 
-⚡️ Fun fact 2...
+⚡️ **Fun fact 2...**
 Et j'enseigne le Viet Vo Dao, un art martial traditionnel vietnamien, aux jeunes depuis de nombreuses années au sein de l'association Vovinam Viet Vo Dao Caen 
 [instagram](https://www.instagram.com/vovinamvietvodaocaen/) et je suis titulaire du Brevet d'État d'éducateur sportif (tronc commun).
 
