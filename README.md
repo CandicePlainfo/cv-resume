@@ -13,7 +13,9 @@ POur voir mon portfolio data plus en détails c'est [par ici](https://CandicePla
 
 ## 🔗 Me suivre | Me contacter
 [LinkedIn](https://www.linkedin.com/candice-plainfosse-92853660)
+
 [Bluesky social](https://bsky.app/profile/candiceplainfo.bsky.social)
+
 [![Github](img/github.png)](https://github.com/CandicePlainfo)
 
 
@@ -127,24 +129,28 @@ _L'enjeu repose sur le recrutement de nouveaux donneurs en continu et à la fid�
 Analyse complète depuis la collecte des données, leur nettoyage jusqu'à une analyse via réduction des dimensions et clustering, jusqu'aux recommandations business
 
 Technologies et langages : Python, Jupyter notebook, ACP, Clustering
+
 [![export](img/xport1.png)](https://github.com/CandicePlainfo/etude_marche_export)
 
 ### Reporting de gestion d'un portefeuille Projets
 Dataviz avec Power BI pour un reporting sur le suivi de projets
 
 Technologies et langages : Power Query Editor, Power BI
+
 [![pbi](img/pbi.png)](https://github.com/CandicePlainfo/reporting_gestion_de_projets)
 
 ### Création d'un modèle de prédiction de l'authenticité des billets 
 Elaboration d'un modèle d'apprentissage pour réaliser une prédiction sur l'authenticité des billets
 
 Technologies et langages : Python, Jupyter notebook, modèles d'apprentissage supervisés et non supervisés
+
 [![billets](img/billets2.png)](https://github.com/CandicePlainfo/modele_authenticite_billets)
 
 ### Création et gestion d'une base de données SQL
 Création de bases de données, vérification de leur intégrité et techniques de requêtage SQL sur des données immobilières
 
 Technologies et langages : SQL, MySQL, SQL Power Architects
+
 [![sql](img/immo_sql.png)]([https://github.com/CandicePlainfo/creation-gestion_BDD_SQL)
 
 ### Optimiser la gestion d'une boutique en ligne
@@ -177,5 +183,5 @@ Je suis également professionnelle en Shiatsu, une technique manuelle de massage
 
 ⚡️ Fun fact 2...
 Et j'enseigne le Viet Vo Dao, un art martial traditionnel vietnamien, aux jeunes depuis de nombreuses années au sein de l'association Vovinam Viet Vo Dao Caen 
-[![insta](img/insta.png)](https://www.instagram.com/vovinamvietvodaocaen/) et je suis titulaire du Brevet d'État d'éducateur sportif (tronc commun).
+[instagram](https://www.instagram.com/vovinamvietvodaocaen/) et je suis titulaire du Brevet d'État d'éducateur sportif (tronc commun).
 
