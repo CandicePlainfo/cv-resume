@@ -9,11 +9,11 @@ Je suis une Data analyst avec une solide expérience en communication et marketi
 Polyvalente et curieuse, je m'active à donner du sens aux données, les rendre accessibles et pertinentes pour éclairer les décisions de manière concrète et efficace. 
 
 Je vous invite à découvrir mon parcours et les projets accomplis ci-dessous. 
-POur voir mon portfolio data plus en détails c'est [![par ici](https://CandicePlainfo.github.io)
+POur voir mon portfolio data plus en détails c'est [par ici](https://CandicePlainfo.github.io)
 
 ## 🔗 Me suivre | Me contacter
-[![linkedin](img/lkin.png)](https://www.linkedin.com/candice-plainfosse-92853660)
-[![bluesky](img/bluesky.png)](https://bsky.app/profile/candiceplainfo.bsky.social)
+[LinkedIn](https://www.linkedin.com/candice-plainfosse-92853660)
+[Bluesky social](https://bsky.app/profile/candiceplainfo.bsky.social)
 [![Github](img/github.png)](https://github.com/CandicePlainfo)
 
 
@@ -67,7 +67,7 @@ Intercultural communication, information campaigns, marketing, political economy
 Spécialité : Affaires et relations internationales
 Certification complémentaire : Diplôme d'Université du monde arabe contemporain
 
-[![Sciences Po Lyon](img/iep.png)](https://www.sciencespo-lyon.fr/)
+[![SciencesPo Lyon](img/ieplyon.png)](https://www.sciencespo-lyon.fr/)
 
 ## Expériences professionnelles
 
@@ -171,7 +171,10 @@ Technologies et langages : Knime
 
 ⚡️ Fun fact 1...
 Je suis également professionnelle en Shiatsu, une technique manuelle de massage d'origine japonaise à base de pressions ciblées et rythmées sur le corps qui apporte bien-être et vise à l'accompagnement du maintien de la santé. 
+
 [![ShiatsuStudio](img/shiatsustudio_logo.png)](https://www.linkedin.com/company/shiatsu-studio-france/)
+
+
 ⚡️ Fun fact 2...
 Et j'enseigne le Viet Vo Dao, un art martial traditionnel vietnamien, aux jeunes depuis de nombreuses années au sein de l'association Vovinam Viet Vo Dao Caen 
 [![insta](img/insta.png)](https://www.instagram.com/vovinamvietvodaocaen/) et je suis titulaire du Brevet d'État d'éducateur sportif (tronc commun).
