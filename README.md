@@ -1,5 +1,5 @@
 
-# Data analyst
+# Data analyst : cv-resume
 
 
 ## A propos
@@ -9,21 +9,17 @@ Je suis une Data analyst avec une solide expérience en communication et marketi
 Polyvalente et curieuse, je m'active à donner du sens aux données, les rendre accessibles et pertinentes pour éclairer les décisions de manière concrète et efficace. 
 
 Je vous invite à découvrir mon parcours et les projets accomplis ci-dessous. 
-POur voir mon portfolio data plus en détails c'est [par ici](https://CandicePlainfo.github.io)
+Pour apprécier mon **portfolio data** plus en détails c'est [par ici](https://CandicePlainfo.github.io)
 
 ## 🔗 Me suivre | Me contacter
 [LinkedIn](https://www.linkedin.com/candice-plainfosse-92853660)
 
-[Bluesky social](https://bsky.app/profile/candiceplainfo.bsky.social)
-
 [![Github](img/github.png)](https://github.com/CandicePlainfo)
 
+[Bluesky social](https://bsky.app/profile/candiceplainfo.bsky.social)
 
 ## Compétences professionnelles
 ![image diagramme](img/competences.png)
-
-## Soft skills
-![image treemap](img/soft_skills.png)
 
 ## 🛠 Compétences techniques
 - Languages : , Python, SQL, R, Dax
@@ -31,7 +27,12 @@ POur voir mon portfolio data plus en détails c'est [par ici](https://CandicePla
 
 ![wordcloud](img/wordcloud.png)
 
+## Soft skills
+![image treemap](img/soft_skills.png)
+
+
 ## Education & formation
+
 
 ### Data analyst, OpenClassrooms et ENSAE
 #### 2024 | A distance
@@ -71,7 +72,9 @@ Certification complémentaire : Diplôme d'Université du monde arabe contempora
 
 [![SciencesPo Lyon](img/ieplyon.png)](https://www.sciencespo-lyon.fr/)
 
+
 ## Expériences professionnelles
+
 
 ### Directrice de la communication Hauts-de-France et Normandie, Etablissement français du sang (EFS)
 #### 2017 - 2023 | Caen, Lille, Rouen ; France
@@ -123,7 +126,9 @@ _L'enjeu repose sur le recrutement de nouveaux donneurs en continu et à la fid�
 - Relations médias
 - Relations publiques et événementielles
 
+
 ## Projets data
+
 
 ### Étude de marché pour l'export en agroalimentaire
 Analyse complète depuis la collecte des données, leur nettoyage jusqu'à une analyse via réduction des dimensions et clustering, jusqu'aux recommandations business
@@ -167,11 +172,14 @@ Technologies et langages : Knime
 
 [![egapro](img/egapro.png)](https://github.com/CandicePlainfo/mise_en_place_indicateurs_Egapro)
 
+
 ## Formations continues
+
 - AUditeur interne (norme iso 9001)
 - Gestion de projet (cascade et agile), LCA
 - Prise de parole publique, Verbatim 
 - Outils et méthodes en promotion et éducation à la santé , EHESP
+
 
 ## Autres activités
 
