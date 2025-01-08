@@ -13,9 +13,6 @@ Pour apprécier mon **portfolio data** plus en détails c'est [par ici](https://
 
 ## 🔗 Me suivre | Me contacter
 [LinkedIn](https://www.linkedin.com/candice-plainfosse-92853660)
-
-[![Github](img/github.png)](https://github.com/CandicePlainfo)
-
 [Bluesky social](https://bsky.app/profile/candiceplainfo.bsky.social)
 
 ## Compétences professionnelles
