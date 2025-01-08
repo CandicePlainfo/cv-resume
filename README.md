@@ -182,6 +182,7 @@ Technologies et langages : Knime
 - Gestion de projet (cascade et agile), LCA
 - Prise de parole publique, Verbatim 
 - Outils et méthodes en promotion et éducation à la santé , EHESP
+- Sauveteur et secouriste du travail
 
 
 ## Autres activités
@@ -193,6 +194,5 @@ Je suis également professionnelle en Shiatsu, une technique manuelle de massage
 
 
 ⚡️ **Fun fact 2...**
-Et j'enseigne le Viet Vo Dao, un art martial traditionnel vietnamien, aux jeunes depuis de nombreuses années au sein de l'association Vovinam Viet Vo Dao Caen 
-[instagram](https://www.instagram.com/vovinamvietvodaocaen/) et je suis titulaire du Brevet d'État d'éducateur sportif (tronc commun).
+Et j'enseigne le Viet Vo Dao, un art martial traditionnel vietnamien, aux jeunes depuis de nombreuses années au sein de l'[Association Vovinam Viet Vo Dao Caen](https://www.instagram.com/vovinamvietvodaocaen/) car je suis titulaire du Brevet d'État d'éducateur sportif (tronc commun).
 
