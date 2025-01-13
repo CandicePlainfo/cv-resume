@@ -22,10 +22,10 @@ Pour apprécier mon **portfolio data** plus en détails c'est [par ici](https://
 - Languages : , Python, SQL, R, Dax
 - Outils : Jupyter, MySQL, Rstudio, MS 365, Power BI, Knime, Git & Github, Power Query, SQLite, SQL Power Architects, Canva, Sharepoint
 
-![wordcloud](img/wordcloud2.png.png)
+![wordcloud](img/wordcloud2.png)
 
 ## Soft skills
-![image treemap](img/soft_skills2.png.png)
+![image treemap](img/soft_skills2.png)
 
 
 ## Education & formation
