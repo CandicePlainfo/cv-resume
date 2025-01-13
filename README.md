@@ -14,7 +14,7 @@ Pour apprécier mon **portfolio data** plus en détails c'est [par ici](https://
 ## 🔗 Me suivre | Me contacter
 [LinkedIn](https://www.linkedin.com/candice-plainfosse-92853660)
 [Bluesky social](https://bsky.app/profile/candiceplainfo.bsky.social)
-
+___
 ## Compétences professionnelles
 ![image diagramme](img/competences.png)
 
@@ -27,6 +27,7 @@ Pour apprécier mon **portfolio data** plus en détails c'est [par ici](https://
 ## Soft skills
 ![image treemap](img/soft_skills2.png)
 
+***
 
 ## Education & formation
 
@@ -50,6 +51,25 @@ Les missions types réalisées :
 Technologies et langages utilisés :
 Python, Jupyter, R, Rstudio, MySQL, SQL, Knime, PowerBI, Pandas, Numpy, Matplotlib, Seaborn, Statsmodel, Scikitlearn.
 
+### Chargée d'études statistiques, ENSAE-ENSAI Formation continue
+#### 2020 | A distance et en présentiel (Malakoff)
+
+Posséder les notions de base en mathématiques pour acquérir les compétences nécessaires au métier pour exploiter, analyser des données structurées et réaliser des études statistiques.
+
+[![OCR](img/ensae-ensai.png)](https://www.lecepe.fr/certificats/data-analyst/#programme)
+
+Les modules suivis :
+
+- Statistique descriptive et manipulation de jeux de données avec le langage R ; 
+- Statistique inférentielle ; 
+- Analyse factorielle (ACP, AFC, ACM) ; 
+- Régression linéaire ;
+- Classification supervisée et non-supervisée ;
+- Traitement des valeurs manquantes.
+
+Technologies et langages utilisés :
+R, Rstudio, Rmarkdown.
+
 ### Pass Management Financier, EM Normandie
 #### 2019 | Caen ; France
 
@@ -64,11 +84,12 @@ Intercultural communication, information campaigns, marketing, political economy
 ### Diplôme d'Études Politiques, Sciences Po Lyon
 #### 1999 - 2001 | Lyon ; France
 
-Spécialité : Affaires et relations internationales
+Spécialité : Affaires et relations internationales<br>
 Certification complémentaire : Diplôme d'Université du monde arabe contemporain
 
 [![SciencesPo Lyon](img/ieplyon.png)](https://www.sciencespo-lyon.fr/)
 
+***
 
 ## Expériences professionnelles
 
@@ -123,6 +144,7 @@ _L'enjeu repose sur le recrutement de nouveaux donneurs en continu et à la fid�
 - Relations médias
 - Relations publiques et événementielles
 
+***
 
 ## Projets data
 
@@ -174,7 +196,7 @@ Technologies et langages : Knime
 
 [![egapro](img/egapro.png)](https://github.com/CandicePlainfo/mise_en_place_indicateurs_Egapro)
 
-
+***
 
 ## Formations continues
 
@@ -184,6 +206,7 @@ Technologies et langages : Knime
 - Outils et méthodes en promotion et éducation à la santé , EHESP
 - Sauveteur et secouriste du travail
 
+***
 
 ## Autres activités
 
