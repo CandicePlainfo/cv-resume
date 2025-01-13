@@ -2,7 +2,7 @@
 # Data analyst : cv-resume
 
 
-## A propos
+## À propos
 
 Je suis une Data analyst avec une solide expérience en communication et marketing dans le domaine de la santé.
 
@@ -22,10 +22,10 @@ Pour apprécier mon **portfolio data** plus en détails c'est [par ici](https://
 - Languages : , Python, SQL, R, Dax
 - Outils : Jupyter, MySQL, Rstudio, MS 365, Power BI, Knime, Git & Github, Power Query, SQLite, SQL Power Architects, Canva, Sharepoint
 
-![wordcloud](img/wordcloud.png)
+![wordcloud](img/wordcloud2.png.png)
 
 ## Soft skills
-![image treemap](img/soft_skills.png)
+![image treemap](img/soft_skills2.png.png)
 
 
 ## Education & formation
