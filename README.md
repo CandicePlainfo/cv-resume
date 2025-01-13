@@ -1,10 +1,10 @@
 
-# Data analyst : cv-resume
+# Mon CV de Data analyst
 
 
 ## À propos
 
-Je suis une Data analyst avec une solide expérience en communication et marketing dans le domaine de la santé.
+Je suis une **Data analyst avec une solide expérience en communication et marketing dans le domaine de la santé**.
 
 Polyvalente et curieuse, je m'active à donner du sens aux données, les rendre accessibles et pertinentes pour éclairer les décisions de manière concrète et efficace. 
 
