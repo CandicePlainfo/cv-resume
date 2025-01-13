@@ -98,11 +98,11 @@ Certification complémentaire : Diplôme d'Université du monde arabe contempora
 #### 2017 - 2023 | Caen, Lille, Rouen ; France
 
 Missions principales :
- • **Stratégie de communication** (et budget associé) à 360° au service de l'établissement interrégional dans tous les domaines de communication interne, institutionnelle, presse, marketing don et marque donneurs (programme Innovadon de modernisation de l'expérience donneurs) dans une logique de cohérence nationale et locale.
- • **Management** hiérarchique des équipes et management fonctionnel; management par la qualité (auditeur interne norme iso), accompagnement au changement.
- • **Animation du réseau** des partenaires associatifs pour le don de sang bénévole (400 assos, 10 unions départementales et 3 comités régionaux sur le territoire Hauts-de-France et Normandie).
- • Communication de crise (anticipation et gestion) 
- • **Communication 360°** sur le don et la marque donneurs : contribuer à la fréquentation des 4000 collectes de sang par an et des 9 maisons du don du territoire des Hauts-de-France et de la Normandie en prenant en compte les attentes de toutes les parties prenantes (partenaires, 400 000 donneurs par an, acteurs internes, etc.) : marketing opérationnel, digital, analytique et relationnel.
+- **Stratégie de communication** (et budget associé) à 360° au service de l'établissement interrégional dans tous les domaines de communication interne, institutionnelle, presse, marketing don et marque donneurs (programme Innovadon de modernisation de l'expérience donneurs) dans une logique de cohérence nationale et locale.
+- **Management** hiérarchique des équipes et management fonctionnel; management par la qualité (auditeur interne norme iso), accompagnement au changement.
+- **Animation du réseau** des partenaires associatifs pour le don de sang bénévole (400 assos, 10 unions départementales et 3 comités régionaux sur le territoire Hauts-de-France et Normandie).
+- Communication de crise (anticipation et gestion) 
+- **Communication 360°** sur le don et la marque donneurs : contribuer à la fréquentation des 4000 collectes de sang par an et des 9 maisons du don du territoire des Hauts-de-France et de la Normandie en prenant en compte les attentes de toutes les parties prenantes (partenaires, 400 000 donneurs par an, acteurs internes, etc.) : marketing opérationnel, digital, analytique et relationnel.
 
 [![efs_hfno](img/efs.png)](https://www.efs.sante.fr/lefs-en-hauts-de-france-et-normandie)
 
