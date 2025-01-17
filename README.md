@@ -1,5 +1,5 @@
 
-# Mon CV de Data analyst
+# 👋 Voici mon CV de Data analyst
 
 
 ## À propos
@@ -15,7 +15,7 @@ Pour apprécier mon **portfolio data** plus en détails c'est [par ici](https://
 [LinkedIn](https://www.linkedin.com/candice-plainfosse-92853660)
 [Bluesky social](https://bsky.app/profile/candiceplainfo.bsky.social)
 ___
-## Compétences professionnelles
+## 🚀 Compétences professionnelles
 ![image diagramme](img/competences.png)
 
 ## 🛠 Compétences techniques
@@ -29,7 +29,7 @@ ___
 
 ***
 
-## Education & formation
+## 👩‍💻 Education & formation
 
 
 ### Data analyst, OpenClassrooms et ENSAE
@@ -91,7 +91,7 @@ Certification complémentaire : Diplôme d'Université du monde arabe contempora
 
 ***
 
-## Expériences professionnelles
+## 🚀 Expériences professionnelles
 
 
 ### Directrice de la communication Hauts-de-France et Normandie, Etablissement français du sang (EFS)
@@ -114,15 +114,15 @@ Missions principales :
 - Communication orale & écrite : rédiger par cible et pour tous supports & tous canaux; former et animer; intervenir en communication pédagogique; prendre la parole dans les médias. 
 - Relations médias régionaux (off et on-line) : élaborer des dispositifs médias 360°, assurer la veille 
 médiatique, construire et actualiser un fichier presse, produire des rédactionnels, réaliser un panorama presse mensuel. 
-- Gestion de la cellule régionale d’écoute « clients »
-**Management & organisation** : 
+- Gestion de la cellule régionale d’écoute « clients » <br>
+**Management & organisation** : <br>
 - Management de service selon les principes suivants : transparence, professionnalisme, exemplarité. 
 - Gestion de projet (concevoir, suivre, évaluer) : événementiel et accompagnement du changement de l'organisation. 
-- Management par la qualité
-**Animation de réseau** : 
+- Management par la qualité <br>
+**Animation de réseau** : <br>
 - Former & informer le réseau des bénévoles du don (100 associations) et des correspondants locaux de promotion du don.  
-- Gérer des partenariats : initier, déployer et suivre les conventions de partenariat 
-**Participation à des travaux de recherches**
+- Gérer des partenariats : initier, déployer et suivre les conventions de partenariat<br>
+**Participation à des travaux de recherches**<br>
 - Collaboration de recherche scientifique en psychologie sociale avec le laboratoire NIMEC puis LPCN de l’Université de Caen Normandie.
 
 [![don](img/don.png)](https://dondesang.efs.sante.fr/)
@@ -130,7 +130,7 @@ médiatique, construire et actualiser un fichier presse, produire des rédaction
 ### Chargée de communication Normandie, Etablissement français du sang (EFS)
 #### 2005 - 2007 | Caen, Rouen ; France
 
-**Missions principales** : 
+**Missions principales** : <br>
 - Assurer le marketing et la communication sur le don de sang, de plasma et de plaquettes dans tous leurs aspects afin de contribuer à la fréquentation des lieux de dons de sang de la région Normandie (7 maisons du don et 1500 collectes mobiles pour 150 000 dons collectés par an et autant de donneurs accueillis dans la région).
 _L'enjeu repose sur le recrutement de nouveaux donneurs en continu et à la fidélisation des donneurs afin qu'ils deviennent réguliers._
 - Mes actions touchaient les domaines du marketing stratégique, relationnel, analytique et opérationnel ainsi que la communication écrite et orale, stratégique et événementielle, partenariats et animation du réseau des bénévoles pour le don de sang (une centaine d'associations de terrain).
@@ -146,7 +146,7 @@ _L'enjeu repose sur le recrutement de nouveaux donneurs en continu et à la fid�
 
 ***
 
-## Projets data
+## ⚡️⚡️ Projets data
 
 
 ### Étude de marché pour l'export en agroalimentaire
@@ -208,14 +208,14 @@ Technologies et langages : Knime
 
 ***
 
-## Autres activités
+## 💬 Autres activités
 
-⚡️ **Fun fact 1...**
+😄 **Fun fact 1...**
 Je suis également professionnelle en Shiatsu, une technique manuelle de massage d'origine japonaise à base de pressions ciblées et rythmées sur le corps qui apporte bien-être et vise à l'accompagnement du maintien de la santé. 
 
 [![ShiatsuStudio](img/shiatsustudio_logo.png)](https://www.linkedin.com/company/shiatsu-studio-france/)
 
 
-⚡️ **Fun fact 2...**
+😄 **Fun fact 2...**
 Et j'enseigne le Viet Vo Dao, un art martial traditionnel vietnamien, aux jeunes depuis de nombreuses années au sein de l'[Association Vovinam Viet Vo Dao Caen](https://www.instagram.com/vovinamvietvodaocaen/) car je suis titulaire du Brevet d'État d'éducateur sportif (tronc commun).
 
