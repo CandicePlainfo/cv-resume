@@ -1,5 +1,5 @@
 
-# 👋 Voici mon CV de Data analyst
+# Voici mon CV de Data analyst
 
 
 ## À propos
